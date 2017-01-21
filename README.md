@@ -2,3 +2,4 @@
 My first attempt
 
 I am testing GitHub for the first time ever!
+It is fun!
